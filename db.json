@@ -1,0 +1,37 @@
+{
+    "accessKey": "57e3fcfb-9650-11ed-a47a-9d9a354f1761",
+    "secretKey": "ff9d6b11-22f3-4000-80a9-bd3dd4463f5c",
+    "item_type": [
+        "Food",
+        "Beverages",
+        "Clothing",
+        "Stationaries",
+        "Electronic Devices",
+        "Wearables"
+    ],
+    "users": [
+        {
+            "name": "ravi",
+            "email": "ravirajk545@gamil.com",
+            "password": "1234567",
+            "username": "ravi123",
+            "purchases": {}
+        },
+        {
+            "name": "raviraj",
+            "email": "ravirajk123545@gamil.com",
+            "password": "123456734",
+            "username": "ravi123raj",
+            "purchases": {
+                "2023-01-18": [
+                    {
+                        "item_name": "kuch bhi",
+                        "item_type": "abc",
+                        "item_price": "120",
+                        "purchase_time": "2023-01-18 16:10:49.185264+05:30"
+                    }
+                ]
+            }
+        }
+    ]
+}
